@@ -1,0 +1,27 @@
+.step-title {
+    background-color: green;
+    font-family: calibri;
+    font-size: 130%;
+    color: white;
+    text-align: center;
+    border-radius: 0px 0px;
+    padding: 10px;
+}
+
+.sub-title {
+    color: darkorange;
+    font-weight: bold;
+}
+
+.content-box {
+    border-radius: 10px;
+    border: 2px solid maroon;
+    padding: 15px;
+    background-color: #E6CCE6;
+    font-size: 110%;
+    text-align: left;
+}
+
+.conclusion-title {
+    color: purple;
+}
